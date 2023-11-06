@@ -1,2 +1,2 @@
-# PrepCourse-Henry-2023
-Este es un repositorio de prueba del modulo 2 año 2023 
+este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi compu local.
+
